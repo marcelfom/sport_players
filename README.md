@@ -31,12 +31,23 @@ This website allows the user to add some sport and matches them with the players
        https://github.com/marcelfom/sport_players/issues
 
   
-[To run in local:]
+To run in local:
 -----------------
     Open index.html in the browser of your choice
 
   
-[To edit the files:]
+To edit the files:
 -----------------
        Open the files in  text editor of your choice
+       
+
+## Authors
+        
+        **Marcellin Fom Tchassem**
+        
+### What's included
+        
+        -Bootstrap files
+        -Index.html (including d3 code)
+        -image
       
