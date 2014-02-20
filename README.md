@@ -12,9 +12,9 @@ This website allows the user to add some sport and matches them with the players
 
 
 
-[To view deployed  sport_players_graph:](http://homework-graph-marcellin-fom-tchassem.net46.net)
+[To view deployed  sport_players_graph (still in maintenance):](http://homework-graph-marcellin-fom-tchassem.net46.net)
 --------------------
-        (still in maintenance)
+        
         
         http://homework-graph-marcellin-fom-tchassem.net46.net
 
