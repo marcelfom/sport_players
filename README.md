@@ -34,21 +34,23 @@ This website allows the user to add some sport and matches them with the players
   
 To run in local:
 -----------------
-    Open index.html in the browser of your choice
+
+Open index.html in the browser of your choice
 
   
 To edit the files:
 -----------------
-       Open the files in  text editor of your choice
+
+Open the files in  text editor of your choice
        
 
 ## Authors
         
-        **Marcellin Fom Tchassem**
+**Marcellin Fom Tchassem**
         
 ### What's included
         
-        -Bootstrap files
-        -Index.html (including d3 code)
-        -image
+-Bootstrap files
+-Index.html (including d3 code)
+-image
       
